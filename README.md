@@ -1,11 +1,7 @@
 # getsomerest
 
-Example source code for the article "RESTful Java Web Services with NetBeans, Jersey and Tomcat".
-Note the master branch supports NetBeans 7.4 and Jersey 1.x. To use NetBeans 8 and Jersey 2.5
-you will need to check out the <tt>jersey-2.5</tt> branch.  You can do that as follows:
-
-1. git clone git@github.com:vichargrave/getsomerest.git
-2. git checkout jersey-2.5
+Example source code for the article "RESTful Java Web Services with NetBeans, Jersey and Tomcat"
+This branch is tailored to be used with NetBeans 8 and Jersey 2.5.
 
 # Build
 
