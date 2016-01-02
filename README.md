@@ -3,6 +3,11 @@
 Example source code for the article [_RESTful Java Web Services with NetBeans 8, 
 Jersey 2.5 and Tomcat 8_](http://vichargrave.com/restful-java-web-services-with-netbeans-8-jersey-2-5-and-tomcat-8/).  This branch is tailored to be used with NetBeans 8 and Jersey 2.5.  To get the Jersey 1.8 version checkout the jersey-1.8 branch.
 
+```
+git clone git@github.com:vichargrave/getsomerest.git
+git checkout jersey-1.8
+```
+
 # Build
 
 1. Configure NetBeans and Tomcat according to my blog article.
