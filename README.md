@@ -1,7 +1,6 @@
 # getsomerest
 
-Example source code for the article [_RESTful Java Web Services with NetBeans, Jersey and Tomcat_](http://vichargrave.com/restful-web-service-development-with-netbeans-and-tomcat-tutorial/).
-This branch supports NetBeans 7.4 and Jersey 1.x. To use NetBeans 8 and Jersey 2.5, you must check
+Example code from my Jersey web service blogs. This branch supports NetBeans 7.4 and Jersey 1.x. To use NetBeans 8 and Jersey 2.5, you must check
 out the master branch.
 
 ```
