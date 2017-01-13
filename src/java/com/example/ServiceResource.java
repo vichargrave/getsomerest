@@ -19,7 +19,7 @@
    limitations under the License.
 */
 
-package com.vichargrave;
+package com.example;
  
 import javax.ws.rs.core.Context;
 import javax.ws.rs.core.UriInfo;
